@@ -1,0 +1,5 @@
+venv/
+.env
+great_expectations/uncommitted/
+__pycache__/
+*.pyc
